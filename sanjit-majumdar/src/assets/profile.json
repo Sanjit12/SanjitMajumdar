@@ -1,0 +1,31 @@
+{
+  "email": "sanjit.cse.12@gmail.com",
+  "location": "Dhaka, Bangladesh",
+  "name": "Sanjit Majumdar",
+  "phone": "01927025242",
+  "avatar": "assets/media/images/profile_pic.jpg",
+  "education": [
+    {
+      "title": "Bachelor of Science (BSc) in Computer Science and Engineering",
+      "meta": "BSMRSTU,  Jan 2014 – Dec 2017"
+    }
+  ],
+  "about": "I consider myself a value adder. I resolute to being a key asset of objective teams while seeking value from colleagues to add to my strengths. I love computer science and information technology.\n\nI have acquired experience building industry standard, production ready applications from working as a full time software developer and being a full time technology hobbyist.",
+  "socials": [
+    {
+      "name": "sanjit.cse.12@gmail.com",
+      "link": "mailto:sanjit.cse.12@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/Sanjit12",
+      "icon": "fab fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/sanjitmajumdar/",
+      "icon": "fab fa-linkedin"
+    }
+  ]
+}
